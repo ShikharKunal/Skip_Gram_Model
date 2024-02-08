@@ -1,5 +1,5 @@
 
-```markdown
+
 # Skip-Gram Word Embedding Model in PyTorch
 
 This project implements a Skip-Gram Word Embedding Model using PyTorch. The Skip-Gram model is a popular technique in Natural Language Processing (NLP) for learning word embeddings. Word embeddings are dense vector representations of words that capture semantic similarity between words based on their context in a given corpus.
@@ -48,6 +48,6 @@ The implementation is done in a Jupyter Notebook, which provides an interactive 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Feel free to modify and customize this README template according to your specific project details and requirements.
+
+
